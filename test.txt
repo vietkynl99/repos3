@@ -1,0 +1,3 @@
+echo "ahihi" > test.txt
+ls -l test.txt
+> test,txt
